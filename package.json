@@ -1,5 +1,5 @@
 {
-  "name": "angular5-toaster",
+  "name": "angular5-toaster-override",
   "version": "1.0.2",
   "description": "An Angular Toaster Notification library based on AngularJS-Toaster",
   "main": "dist/bundles/angular5-toaster.umd.js",
